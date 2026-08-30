@@ -1,6 +1,8 @@
 ## Fork Changes
 PS1 emulators identify games based on a baked in serial number. With VanLaser's permissions, I am making some update patches for his analog controls hack which add a custom serial number, which will be added to PS1 emulator game databases that will default the games to analog controls. This removes a painpoint of this hack. Previously you had to either edit the emulator's game database, or change it to analog every time you launched because the games originally did not support analog controllers at all.
 
+See VanLaser's Original ReadMe below:
+
 ## QoL enhancements: dual analog controls for Armored Core 3 Portable - USA, Armored Core: Silent Line Portable - USA, Armored Core: Last Raven Portable - USA and Armored Core: Formula Front International - Japan (PPPSSPP emulator, Vita)
 
 ⚠ **_NOTE: If you play AC: Last Raven Portable with the latest patch (inside weapon selection fix), or the new patch for the AC: Formula Front International, feedback would be very appreciated!_**
