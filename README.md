@@ -1,5 +1,7 @@
 ## Fork Changes
-PS1 emulators identify games based on a baked in serial number. With VanLaser's permissions, I am making some update patches for his analog controls hack which add a custom serial number, which will be added to PS1 emulator game databases that will default the games to analog controls. This removes a painpoint of this hack. Previously you had to either edit the emulator's game database, or change it to analog every time you launched because the games originally did not support analog controllers at all.
+PS1 emulators identify games based on a baked in serial number. With VanLaser's permissions, I have updated the patches for his analog controller patches to include a custom serial number. This custom serial number will be added to PS1 emulator game databases so that the game will default to analog controls. This removes a painpoint of this hack. Previously you had to either edit the emulator's game database, or change it to analog every time you launched because the games originally did not support analog controllers at all.
+
+When selecting what patch to use, use only `Serial number change only` if you already have VanLaser's patch installed. This will leave everything the same besides the serial number. If you are starting from an unpatched rom, use `Analog patch and serial number change`
 
 See VanLaser's Original ReadMe below:
 
